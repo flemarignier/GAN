@@ -1,4 +1,3 @@
-#-*- coding: utf-8 -*-
 import tensorflow as tf
 
 def batchnormalize(X, eps=1e-8, g=None, b=None):
