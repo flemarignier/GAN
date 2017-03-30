@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
 import os
 
-save_weigths = True
+save_weigths = False
 path_weigths = 'C:/Users/Florian/Desktop/projet_deep/GAN/infogan/tensorflow_model.ckpt'
 
 
