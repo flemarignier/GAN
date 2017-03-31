@@ -1,5 +1,6 @@
 # Origine des codes utilisés
 
+* [Auto-encodeur](https://gist.github.com/tomokishii/7ddde510edb1c4273438ba0663b26fc6)
 * [Infogan](https://github.com/wiseodd/generative-models)
 * [DCGAN](https://github.com/yihui-he/GAN-MNIST)
 
